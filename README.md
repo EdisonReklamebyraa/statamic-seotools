@@ -11,7 +11,8 @@ This addon provides a custom fieldtype ready to be added to a blueprint. When ad
 
 Clicking one of the buttons will open the service in a new tab.
 
-![screenshot of buttons]( "SEO Tools Action")
+![Screenshot of buttons](https://raw.githubusercontent.com/EdisonReklamebyraa/statamic-seotools/main/img/SEO%20Tools.png "SEO Tools Action")
+
 ## How to Install
 
 You can search for this addon in the `Tools > Addons` section of the Statamic control panel and click **install**, or run the following command from your project root:
