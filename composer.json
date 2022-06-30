@@ -1,6 +1,6 @@
 {
     "name": "edgebranding/seotools",
-    "description": "Provides buttons for testing a page on Facebook Debug and Goodle Pagespeed Insight in Control Panel.",
+    "description": "Provides buttons for testing a page on Facebook Debug and Google Pagespeed Insight in Control Panel.",
     "require": {
         "php": "^7.4 || ^8.0",
         "laravel/framework": "^7.0 || ^8.0 || ^9.0",
@@ -22,7 +22,7 @@
     "extra": {
         "statamic": {
             "name": "SEO Tools",
-            "description": "Provides buttons for testing a page on Facebook Debug and Goodle Pagespeed Insight in Control Panel."
+            "description": "Provides buttons for testing a page on Facebook Debug and Google Pagespeed Insight in Control Panel."
         },
         "laravel": {
             "providers": [
