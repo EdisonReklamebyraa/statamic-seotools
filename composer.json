@@ -1,0 +1,28 @@
+{
+    "name": "edgebranding/seotools",
+    "description": "SEO Tools",
+    "autoload": {
+        "psr-4": {
+            "Edgebranding\\Seotools\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Espen Grimsgaard"
+        }
+    ],
+    "support": {
+        "email": "hei@edgebranding.no"
+    },
+    "extra": {
+        "statamic": {
+            "name": "SEO Tools",
+            "description": "SEO Tools Addon"
+        },
+        "laravel": {
+            "providers": [
+                "Edgebranding\\Seotools\\ServiceProvider"
+            ]
+        }
+    }
+}

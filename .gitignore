@@ -1,0 +1,5 @@
+/dist
+/node_modules
+/mix-manifest.json
+/yarn.lock
+/js/cp.js
